@@ -1,2 +1,1 @@
-# CSharpBP-Basics
-Materials for the "C# Best Practices: Improving on the Basics" course
+Workshop For C# 6 new features and principles of clean coding with turkish and english comments
